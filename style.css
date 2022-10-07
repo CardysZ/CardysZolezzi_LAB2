@@ -1,0 +1,20 @@
+body {
+    background-color: hsl(0, 0%, 0%);
+}
+
+
+p {
+    font-size: large;
+    text-align: center;
+    color: aliceblue;
+    font-family: 'Courier New', Courier, monospace;
+    line-height: 3;
+    
+}
+
+table {
+    color: aliceblue;
+    font-family: 'Courier New', Courier, monospace;
+    font-style: italic;
+}
+
